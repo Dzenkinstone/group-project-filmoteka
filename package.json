@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Dzenkinstone.github.io/js-hw-11/group-project-filmoteka/",
+  "homepage": "https://Dzenkinstone.github.io/group-project-filmoteka/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /group-project-filmoteka/"
